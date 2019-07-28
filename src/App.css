@@ -1,3 +1,13 @@
+.header {
+  background-color: aqua;
+}
+
+.flex-large1 {
+  
+  margin-left: 260px;
+  margin-top: -50px;
+}
+
 .App {
   text-align: center;
 }
